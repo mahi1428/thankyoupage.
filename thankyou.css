@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+#header{
+    width: 100%;
+    float: left;
+}
+.topheader{
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.096);
+    padding: 5px 0px;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.topheader-txt-main-area{
+    float: right;
+}
+.bidding-solution{
+    float: left;
+    margin-left: 20px;
+}
+.bidding-solution a{
+    text-decoration: none;
+    color: #000;
+}
+.bidding-solution p{
+margin: 0px;
+}
+.bidding-solution span{
+    margin-left: 10px;
+}
+.menu-main-area{
+    float: left;
+    width: 100%;
+}
+.logo-area{
+    width: 17%;
+    float: left;
+}
+.menu-area{
+   float: right;
+   margin-top: 25px;
+}
+.menu-area ul{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-area ul li{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    display: inline-block;
+    padding: 0 10px;
+}
+.menu-area ul li a{
+   color: #000;
+   text-decoration: none;
+}
+.menu-area ul li a:hover{
+    color: #ff9403;
+    text-decoration: none;
+ }
+ .menu-area ul li a.active{
+    color: #ff9403;
+    text-decoration: none;
+ }
+.content-area{
+    float: left;
+    width: 100%;
+}
+.thankyou.area {
+    width: 100%;
+    float: left;
+}
+
+
+ .thankyou  span{
+   color: #ff9403;
+}
+.text{
+    font-size: 53px;
+    text-transform: uppercase;
+    font-weight: 900;
+    line-height: 70px;
+   float: left;
+    margin-top: 60px;
+    margin-left: 40px ;
+    width: 45%;
+    
+}
+
+.thankyou area h2{
+    margin-top: 130px;
+}
+.thankyouimage{
+    float: right;
+    
+}
+.money-back{
+    margin-bottom: 25px;
+}
+.money-back p{
+    width: 45%;
+    margin-top: 20px;
+}
+.text2{
+    color: #ff9403;
+
+}
+.number{
+    text-decoration: none;
+    color: #ff9403;
+
+}
+.continue{text-decoration: none;
+    color: #ff9403;
+
+
+}
+button{
+   
+    background-color: #ff9403;
+    color: #fff;
+    border: 1px solid #ff9403;
+    padding: 10px 18px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 25px
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+p .thankyou-text-area{
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+.knowmore{
+    font-size: 15px; 
+}
+.knowmore a {
+    font-weight: 700;
+    font-size: 14px;
+    color: #ff9403;
+    text-decoration: underline;
+    font-family: 'Open Sans',sans-serif;
+    
+}
+.one{
+
+    margin-bottom: 40px;
+}
+.two{
+    margin-bottom: 40px;
+}
+.three{
+    margin-bottom: 40px;
+}
+.three{
+    margin-bottom: 40px;
+}
+.four{
+    margin-bottom: 35px;
+}
+.footer {
+    padding: 15px 0 0;
+    background-color: #181818;
+    z-index: 1;
+    position: absolute;
+
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.information {
+    text-align: justify;
+    color: #999;
+    display: block;
+    width: 20%;
+    margin-left: 35px;
+    float: left;
+    
+}
+.company{
+    
+   
+    color: #999;
+
+    display: block;
+    width: 15%;
+float: left;
+    
+    
+}
+h3{
+    text-transform: none;
+    font-size: 22px;
+    font-weight: 400;
+}
+.footer h3 {
+    color: #fff;
+    margin-bottom: 8px;
+    padding: 0 13px;
+}
+.company li{
+    list-style: none;
+}
+.services{
+    display: block;
+    width: 25%;
+    float: left;
+    color: #999;
+}
+.services li{
+    list-style: none;
+}
+.customer li{
+    color: #999;
+    list-style: none;
+   
+   
+}
+.customer{
+    padding-top: 10px;
+    height: 250px;
+}
+.footer2{
+    text-align: center;
+    height: 60px;
+    background-color: rgba(128, 128, 128, 0.701);
+    margin-right: 15px;
+    margin-left: 15px;
+    justify-content: center;
+    float: left;
+    width: 97%;
+}
